@@ -1,4 +1,4 @@
-# **Imdb movies analysis with Neo4j**
+# **Query Noe4j Graph database with Cypher**
 
 
 ## **Project description**
