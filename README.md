@@ -1,4 +1,4 @@
-# **Query Noe4j Graph database with Cypher**
+# **Query Neo4j Graph database with Cypher**
 
 
 ## **Project description**
